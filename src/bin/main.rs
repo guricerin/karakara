@@ -1,4 +1,4 @@
-extern crate karakara;
+use karakara;
 
 fn main() {
     println!("karakara -is toy shell: \n");

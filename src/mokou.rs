@@ -1,4 +1,4 @@
-use super::rand::{thread_rng, Rng};
+use crate::rand::{thread_rng, Rng};
 
 static MISSTEPS: &'static [&str] = &[
     "(⌒,_ゝ⌒ ) 何やこの厨パァ！！！",
